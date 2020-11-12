@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://changhyub97.github.io/sitemap.xml
+
+DaumWebMasterTool:d6ff6421f0ed6b331582a32a990b3edf2dc1184693dc236e94a7461b165c50be:AjqBsM5N9OwqdGhcHVi0YA==
